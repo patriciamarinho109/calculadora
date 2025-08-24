@@ -34,7 +34,7 @@ O objetivo foi praticar conceitos de estruturação de páginas, estilização e
 │   └── js/
 │       └── main.js   # Lógica da calculadora
 └── README.md         # Documentação do projeto
-
+```
 
 
 🔧 Como Executar
@@ -43,6 +43,8 @@ O objetivo foi praticar conceitos de estruturação de páginas, estilização e
 
 ```bash
 git clone git@github.com:patriciamarinho109/calculadora.git
+
+```
 
 
 2. Acesse a pasta do projeto:
