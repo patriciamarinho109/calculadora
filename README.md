@@ -89,9 +89,12 @@ Envie para a branch (git push origin minha-feature)
 
 Abra um Pull Request
 
+
 📜 Licença
 
+
 Este projeto está sob a licença de patriciamarinho109.
+
 Sinta-se livre para usar, modificar e compartilhar.
 
 👩‍💻 Autora: patriciamarinho109
